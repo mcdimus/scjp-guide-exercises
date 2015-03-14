@@ -1,0 +1,1 @@
+Solved exercises form the book.
